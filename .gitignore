@@ -1,2 +1,5 @@
 xdp_loader
 xdp_stats
+build
+*.o
+*.ll
